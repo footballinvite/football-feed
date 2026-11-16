@@ -1,61 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>My Football Feed - For Adaptly</title>
+<title>My Football Feed - VETLAND</title>
 <link>https://t.me/s/vetland_sports_football1</link>
-<description>Football news with AI images - different pose, different colour for each post. Source: VETLAND SPORTS</description>
+<description>Football news from VETLAND SPORTS with AI images - different pose, different colour for each post</description>
 <language>en-gb</language>
-<atom:link href="https://footballinvite.github.io/football-feed/Feed.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Mon, 16 Nov 2026 20:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 22:53:11 GMT</lastBuildDate>
 <item>
 <title>Barcelona vs Villarreal - La Liga trophy presentation</title>
 <link>https://t.me/s/vetland_sports_football1</link>
 <description>Barcelona are expected to be presented with the La Liga trophy after their contest with Villarreal, having secured the championship with a win in the Catalan derby.</description>
-<guid isPermaLink="false">vetland-barca-villarreal-001</guid>
-<pubDate>Mon, 16 Nov 2026 20:00:00 +0000</pubDate>
-<enclosure url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20footballer%20lifting%20a%20trophy%2C%20wearing%20blue%20and%20red%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1080&amp;height=1080&amp;nologo=true" type="image/jpeg" length="0" />
-<media:content url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20footballer%20lifting%20a%20trophy%2C%20wearing%20blue%20and%20red%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1080&amp;height=1080&amp;nologo=true" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20footballer%20lifting%20a%20trophy%2C%20wearing%20blue%20and%20red%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1080&amp;height=1080&amp;nologo=true" />
+<guid isPermaLink="false">Barcelona vs Villarreal - La Liga trophy presentation</guid>
+<pubDate>Mon, 16 Nov 2026 22:53:11 GMT</pubDate>
+<enclosure url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20footballer%20lifting%20a%20trophy%2C%20wearing%20blue%20and%20red%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1024&height=1024&nologo=true" type="image/jpeg" length="0" />
+<media:content url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20footballer%20lifting%20a%20trophy%2C%20wearing%20blue%20and%20red%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1024&height=1024&nologo=true" medium="image" type="image/jpeg" />
 </item>
 <item>
 <title>OFFICIAL: Galatasaray have WON the Turkish League</title>
 <link>https://t.me/s/vetland_sports_football1</link>
 <description>Congratulations to Okan Buruk and his team, who won the Turkish Cup a few days ago too. Galatasaray now have 5 stars on their logo.</description>
-<guid isPermaLink="false">vetland-galatasaray-002</guid>
-<pubDate>Mon, 16 Nov 2026 19:00:00 +0000</pubDate>
-<enclosure url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20footballer%20celebrating%20with%20arms%20raised%2C%20wearing%20red%20and%20yellow%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1080&amp;height=1080&amp;nologo=true" type="image/jpeg" length="0" />
-<media:content url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20footballer%20celebrating%20with%20arms%20raised%2C%20wearing%20red%20and%20yellow%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1080&amp;height=1080&amp;nologo=true" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20footballer%20celebrating%20with%20arms%20raised%2C%20wearing%20red%20and%20yellow%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1080&amp;height=1080&amp;nologo=true" />
+<guid isPermaLink="false">OFFICIAL: Galatasaray have WON the Turkish League</guid>
+<pubDate>Mon, 16 Nov 2026 22:53:11 GMT</pubDate>
+<enclosure url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20footballer%20celebrating%20with%20arms%20raised%2C%20wearing%20red%20and%20yellow%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1024&height=1024&nologo=true" type="image/jpeg" length="0" />
+<media:content url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20footballer%20celebrating%20with%20arms%20raised%2C%20wearing%20red%20and%20yellow%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1024&height=1024&nologo=true" medium="image" type="image/jpeg" />
 </item>
 <item>
 <title>Haaland donated to Man City fans for De Bruyne banner</title>
 <link>https://t.me/s/vetland_sports_football1</link>
 <description>Erling Haaland donated 5000 euros to Manchester City fans to help pay for the Kevin De Bruyne banner before the FA Cup final.</description>
-<guid isPermaLink="false">vetland-haaland-003</guid>
-<pubDate>Mon, 16 Nov 2026 18:00:00 +0000</pubDate>
-<enclosure url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20footballer%20pointing%20to%20fans%20banner%20in%20stadium%2C%20wearing%20sky%20blue%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1080&amp;height=1080&amp;nologo=true" type="image/jpeg" length="0" />
-<media:content url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20footballer%20pointing%20to%20fans%20banner%20in%20stadium%2C%20wearing%20sky%20blue%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1080&amp;height=1080&amp;nologo=true" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20footballer%20pointing%20to%20fans%20banner%20in%20stadium%2C%20wearing%20sky%20blue%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1080&amp;height=1080&amp;nologo=true" />
+<guid isPermaLink="false">Haaland donated to Man City fans for De Bruyne banner</guid>
+<pubDate>Mon, 16 Nov 2026 22:53:11 GMT</pubDate>
+<enclosure url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20footballer%20pointing%20to%20fans%20banner%20in%20stadium%2C%20wearing%20sky%20blue%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1024&height=1024&nologo=true" type="image/jpeg" length="0" />
+<media:content url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20footballer%20pointing%20to%20fans%20banner%20in%20stadium%2C%20wearing%20sky%20blue%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1024&height=1024&nologo=true" medium="image" type="image/jpeg" />
 </item>
 <item>
 <title>Liverpool vs Brighton - Monday Night Football preview</title>
 <link>https://t.me/s/vetland_sports_football1</link>
 <description>Premier League champions Liverpool take on Brighton in the final Monday Night Football of the season.</description>
-<guid isPermaLink="false">vetland-liverpool-brighton-004</guid>
-<pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
-<enclosure url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20footballer%20striking%20a%20ball%20mid-air%2C%20wearing%20red%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1080&amp;height=1080&amp;nologo=true" type="image/jpeg" length="0" />
-<media:content url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20footballer%20striking%20a%20ball%20mid-air%2C%20wearing%20red%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1080&amp;height=1080&amp;nologo=true" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20footballer%20striking%20a%20ball%20mid-air%2C%20wearing%20red%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1080&amp;height=1080&amp;nologo=true" />
+<guid isPermaLink="false">Liverpool vs Brighton - Monday Night Football preview</guid>
+<pubDate>Mon, 16 Nov 2026 22:53:11 GMT</pubDate>
+<enclosure url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20footballer%20striking%20a%20ball%20mid-air%2C%20wearing%20red%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1024&height=1024&nologo=true" type="image/jpeg" length="0" />
+<media:content url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20footballer%20striking%20a%20ball%20mid-air%2C%20wearing%20red%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1024&height=1024&nologo=true" medium="image" type="image/jpeg" />
 </item>
 <item>
 <title>Ashley Young has no plans to retire after Everton departure</title>
 <link>https://t.me/s/vetland_sports_football1</link>
 <description>Ashley Young, 39, has no plans to retire following his departure from Everton. He has made close to 800 professional appearances.</description>
-<guid isPermaLink="false">vetland-young-005</guid>
-<pubDate>Mon, 16 Nov 2026 16:00:00 +0000</pubDate>
-<enclosure url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20veteran%20footballer%20running%20with%20the%20ball%2C%20wearing%20white%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1080&amp;height=1080&amp;nologo=true" type="image/jpeg" length="0" />
-<media:content url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20veteran%20footballer%20running%20with%20the%20ball%2C%20wearing%20white%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1080&amp;height=1080&amp;nologo=true" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20veteran%20footballer%20running%20with%20the%20ball%2C%20wearing%20white%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1080&amp;height=1080&amp;nologo=true" />
+<guid isPermaLink="false">Ashley Young has no plans to retire after Everton departure</guid>
+<pubDate>Mon, 16 Nov 2026 22:53:11 GMT</pubDate>
+<enclosure url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20veteran%20footballer%20running%20with%20the%20ball%2C%20wearing%20white%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1024&height=1024&nologo=true" type="image/jpeg" length="0" />
+<media:content url="https://image.pollinations.ai/prompt/Photorealistic%20football%20news%20photo%2C%20veteran%20footballer%20running%20with%20the%20ball%2C%20wearing%20white%20kit%2C%20stadium%20background%2C%20natural%20lighting%2C%20no%20text%2C%20no%20watermark%2C%20no%20logos?width=1024&height=1024&nologo=true" medium="image" type="image/jpeg" />
 </item>
 </channel>
 </rss>
