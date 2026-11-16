@@ -12,7 +12,7 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install feedparser requests
-      - run: python Update_Feed.py
+      - run: python update_Feed.py
         env:
           RSS_URL: ${{ secrets.RSS_URL }}
       - run: |
