@@ -3,7 +3,7 @@ import feedparser, urllib.parse, random, hashlib, datetime, os, re
 import xml.etree.ElementTree as ET
 RSS_URL = os.environ.get("RSS_URL", "https://rsshub.rssforever.com/telegram/channel/vetland_sports_football1")
 FEED_FILE = "feed.xml"
-SITE_URL = "https://YOUR-USERNAME.github.io/football-feed/feed.xml"
+SITE_URL = "https://footballinvite.github.io/football-feed/feed.xml"
 POSES = ["celebrating with arms raised", "striking a ball mid-air", "running with the ball", "heading the ball", "lifting a trophy", "sliding tackle", "taking a free kick", "pointing to fans", "kneeling in celebration"]
 KITS = ["red and white kit", "blue kit", "yellow kit", "green kit", "black kit", "white kit", "orange kit", "blue and red kit", "red and yellow kit", "sky blue kit"]
 def is_promo(t):
